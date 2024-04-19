@@ -1,0 +1,6 @@
+npm create-react-app .
+
+react-alice-carousel
+mui
+mui-icon
+tailwind css
